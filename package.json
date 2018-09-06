@@ -1,6 +1,6 @@
 {
   "name": "react-native-tink",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tink is a multi-language, cross-platform cryptographic library for react native application",
   "main": "index.js",
   "directories": {
