@@ -1,4 +1,4 @@
-com.kennytian.tink;
+package com.kennytian.tink;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
