@@ -1,0 +1,37 @@
+{
+  "name": "react-native-tink",
+  "version": "0.0.1",
+  "description": "Tink is a multi-language, cross-platform cryptographic library for react native application",
+  "main": "index.js",
+  "directories": {
+    "examples": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kennytian/react-native-tink.git"
+  },
+  "keywords": [
+    "google",
+    "tink",
+    "react-native",
+    "component",
+    "cryptographic",
+    "multi-language",
+    "cross-platform"
+  ],
+  "author": "Kennytian <kenny_tian@outlook.com>",
+  "contributors": [
+    {
+      "name": "your name",
+      "email": "your@email.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kennytian/react-native-tink/issues"
+  },
+  "homepage": "https://github.com/Kennytian/react-native-tink#readme"
+}
